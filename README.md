@@ -1,33 +1,69 @@
-# Project
+# Scaling Clinical Trial Matching Using Large Language Models: A Case Study in Oncology
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+[[Paper](https://arxiv.org/abs/2308.02180)] 
 
-As the maintainer of this project, please make a few updates:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+[Cliff Wong](https://scholar.google.com/citations?user=Sl05ifcAAAAJ&hl=en), [Sheng Zhang](https://scholar.google.com/citations?user=-LVEXQ8AAAAJ&hl=en), [Yu Gu](https://scholar.google.com/citations?user=1PoaURIAAAAJ&hl=en&oi=sra), [Christine Moung](https://www.semanticscholar.org/author/C.-Moung/7016395), [Jacob Abel](https://scholar.google.com/citations?user=xKOFq-MAAAAJ&hl=en&oi=sra), [Naoto Usuyama](https://www.microsoft.com/en-us/research/people/naotous/), [Roshanthi Weerasinghe](https://www.semanticscholar.org/author/R.-Weerasinghe/2131618433), [Brian Piening](https://scholar.google.com/citations?user=cpToe1oAAAAJ&hl=en&oi=ao), [Tristan Naumann](https://scholar.google.com/citations?user=cjlSeqwAAAAJ&hl=en), [Carlo Bifulco](https://scholar.google.com/citations?user=_um_DjQAAAAJ&hl=en&oi=ao), [Hoifung Poon](https://scholar.google.com/citations?user=yqqmVbkAAAAJ&hl=en)
 
-## Contributing
+## Release
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Contents
+<!-- - [Data Download](#data-download) -->
+- [Install](#install)
+- [LLM extraction](#llm-extract)
+- [Evaluation](#evaluation)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Install
 
-## Trademarks
+1. Clone this repository and navigate to CTM-LLM folder
+```bash
+git clone https://github.com/microsoft/CTM-LLM
+cd CTM-LLM
+```
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+2. Install Package: Create conda environment
+
+```Shell
+conda create -n ctm-llm python=3.10 -y
+conda activate ctm-llm
+pip install -r requirements.txt
+```
+
+## LLM Extract
+
+
+## Evaluation
+
+
+
+## Acknowledgement
+
+
+If you find this work useful for your research and applications, please cite using this BibTeX:
+```bibtex
+@InProceedings{wong2023ctmllm,
+      title={Scaling Clinical Trial Matching Using Large Language Models: A Case Study in Oncology}, 
+      author={Wong, Cliff and Zhang, Sheng and Gu, Yu and Moung, Christine and Abel, Jacob and Usuyama, Naoto and Weerasinghe, Roshanthi and Piening, Brian and Naumann, Tristan and Bifulco, Carlo and Poon, Hoifung},
+      booktitle={Proceedings of the 2nd Machine Learning for Health symposium},
+      year={2023},
+      volume={219},
+      series={Proceedings of Machine Learning Research},
+      publisher={PMLR},
+      primaryClass={cs.CL},
+      pdf={https://arxiv.org/pdf/2308.02180.pdf},
+      url={https://arxiv.org/abs/2308.02180}
+}
+```
+
+
+
+
+## Related Projects
+
+- [LLaVA](https://llava-vl.github.io/)
+- [BioMed CLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)
+- [Instruction Tuning with GPT-4](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
+
+
