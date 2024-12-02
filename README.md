@@ -40,8 +40,20 @@ openai.api_key = '...'
 openai.api_base = 'https://example-endpoint.openai.azure.com/'
 openai.api_version = "2023-03-15-preview"
 DEPLOYMENT_ID="deployment-name"
+```
 
 ## Evaluation
+
+Below are several normalized LLM predictions files:
+| LLM | path |
+| :---: | :---: |
+| GPT 3.5 0-shot |  predictions/gpt3p5_0shot.jsonl |
+| GPT 4 0-shot |  predictions/gpt4_0shot.jsonl |
+| GPT 4 3-shot |  predictions/gpt4_3shot.jsonl |
+| Criteria2Query | predictions/criteria2query_entity_norm.jsonl |
+
+To run evaluation, run the command below with the prediction file
+
 ```Shell
 python evaluation/eval_gpt.py --input_pred_path <prediction file> --input_ground_truth_path labels/ground_truth_norm.jsonl
 ```
