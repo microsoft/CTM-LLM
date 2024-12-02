@@ -33,10 +33,18 @@ pip install -r requirements.txt
 
 ## LLM Extract
 
+Fill in your OpenAI API parameters in the file src/openai_api.py:
+```Shell
+openai.api_type = "azure"
+openai.api_key = '...'
+openai.api_base = 'https://example-endpoint.openai.azure.com/'
+openai.api_version = "2023-03-15-preview"
+DEPLOYMENT_ID="deployment-name"
 
 ## Evaluation
-
-
+```Shell
+python evaluation/eval_gpt.py --input_pred_path <prediction file> --input_ground_truth_path labels/ground_truth_norm.jsonl
+```
 
 ## Acknowledgement
 
@@ -53,17 +61,7 @@ If you find this work useful for your research and applications, please cite usi
       publisher={PMLR},
       primaryClass={cs.CL},
       pdf={https://arxiv.org/pdf/2308.02180.pdf},
-      url={https://arxiv.org/abs/2308.02180}
+      url={https://arxiv.org/abs/2308.02180},
+      abstract={Clinical trial matching is a key process in health delivery and discovery. In practice, it is plagued by overwhelming unstructured data and unscalable manual processing. In this paper, we conduct a systematic study on scaling clinical trial matching using large language models (LLMs), with oncology as the focus area. Our study is grounded in a clinical trial matching system currently in test deployment at a large U.S. health network. Initial findings are promising: out of box, cutting-edge LLMs, such as GPT-4, can already structure elaborate eligibility criteria of clinical trials and extract complex matching logic (e.g., nested AND/OR/NOT). While still far from perfect, LLMs substantially outperform prior strong baselines and may serve as a preliminary solution to help triage patient-trial candidates with humans in the loop. Our study also reveals a few significant growth areas for applying LLMs to end-to-end clinical trial matching, such as context limitation and accuracy, especially in structuring patient information from longitudinal medical records.}
 }
 ```
-
-
-
-
-## Related Projects
-
-- [LLaVA](https://llava-vl.github.io/)
-- [BioMed CLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)
-- [Instruction Tuning with GPT-4](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
-
-

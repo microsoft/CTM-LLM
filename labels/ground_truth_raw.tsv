@@ -1,0 +1,308 @@
+		 Inclusion Criteria 					 Exclusion Criteria 							
+ CT # 	 NCT_ID 	 Staging/State 	 Histology 	 Biomarker 1 	 Biomarker 2 	 Biomarker 3 	 Histology 1 	 Histology 2 	 Histology 3 	 Histology 4 	 Biomarker 1 	 Biomarker 2 	 Biomarker 3 	
+1	NCT04505826	"Advanced, Metastatic"	Breast Cancer	HER2 Negative	HR Positive									
+														
+2	NCT03847519	Metastatic 	Non-Squamous Non-Small Cell Lung Cancer											
+		Metastatic 	Squamous Non-Small Cell Lung Cancer											
+		Metastatic 	Non-Squamous Non-Small Cell Lung Cancer	PD-L1 High							ALK Fusion	EGFR Activating Mutation		
+		Metastatic 	Squamous Non-Small Cell Lung Cancer	PD-L1 High							ALK Fusion	EGFR Activating Mutation		
+														
+3	NCT04266249	"Stage II, IIIA"	breast carcinoma	HER2 Positive										
+														
+4	NCT05336409	relapsed or refractory	B-cell Non-Hodgkin's Lymphoma	CD19 Positive										
+														
+5	NCT03669718	recurrent or metastatic	Oropharyngeal Cancer	HPV16 Positive	PD-L1 Positive									
+														
+6	NCT04420884	advanced or metastatic	Solid Tumor											
+		metastatic or recurrent	squamous cell carcinoma of head and neck				nasopharyngeal cancer	salivary gland tumors						
+		metastatic or recurrent	squamous cell carcinoma of head and neck	PD-L1 Positive			nasopharyngeal cancer	salivary gland tumors						
+		recurrent locally advanced or metastatic	CRC	MSI-H										
+		recurrent locally advanced or metastatic	CRC	dMMR										
+		recurrent locally advanced or metastatic	CRC	MSS										
+		recurrent locally advanced or metastatic	CRC	pMMR										
+														
+7	NCT01190930		B-ALLÊ(B-cell acute lymphoblastic leukemia )											
+		Murphy stages I or II	B-LLy (B Cell Lymphoblastic Lymphoma)				T-lymphoblastic lymphoma	Morphologically unclassifiable lymphoma	Absence of both B-cell and T-cell phenotype markers in a case submitted as lymphoblastic lymphoma					
+														
+8	NCT02867592	"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Ewing sarcoma											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Rhabdomyosarcoma (RMS)											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Non-rhabdomyosarcoma soft tissue sarcomas (STS)Ê											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	alveolar soft part sarcoma											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	clear cell sarcoma											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Osteosarcoma											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Wilms tumor											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Medullary thyroid carcinoma (MTC)											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Renal cell carcinoma (RCC)											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Hepatocellular carcinoma (HCC)											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Hepatoblastoma											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Adrenocortical carcinoma											
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Solid Tumor	MET High										
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Solid Tumor	MET activating mutation										
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Solid Tumor	MET Fusion										
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Solid Tumor	MET exon 14 del										
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Solid Tumor	RET Mutation										
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Solid Tumor	RET Fusion										
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Solid Tumor	RET High										
+		"recurrent or refractory disease, or newly diagnosed disease with no known curative therapyÊ"	Solid Tumor	AXL High										
+														
+9	NCT04647526	Metastatic Castration-Resistant 	Prostate Cancer				sarcomatoid	spindle cell	neuroendocrine	Any small cell component				
+														
+10	NCT05443126	Advanced	Solid Tumor	RET Alterations							Any other major mutation than RET			
+		Advanced	Solid Tumor	RET Fusion							Any other major mutation than RET			
+														
+11	NCT03833167	high-risk locally advanced	cutaneous squamous cell carcinoma											
+														
+12	NCT04267848	"stage IIA, IIB IIIA or IIIB"	non-squamous non-small cell lung cancer								ALK Fusion	EGFR exon 19 deletion	EGFR L858R	
+		"stage IIA, IIB IIIA or IIIB"	non-small cell lung cancer											
+														
+13	NCT04198766	Locally Advanced or Metastatic	squamous NSCLC				Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	melanoma				Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	HNSCC				Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Gastric/Gastroesophageal Cancer				Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Renal cell carcinoma (RCC)				Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Transitional Cell Cancer				Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	non-squamous NSCLC				Hematologic malignancies	CNS Tumor			EGFR activating Mutation	ALK Fusion		
+		Locally Advanced or Metastatic	melanoma	PD-L1 High			Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	HNSCC	PD-L1 High			Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Gastric/Gastroesophageal Cancer	PD-L1 High			Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Renal cell carcinoma (RCC)	PD-L1 High			Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Transitional Cell Cancer	PD-L1 High			Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Solid Tumor	MSI-high	PD-L1 High		Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Solid Tumor	TMB-high			Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	Solid Tumor	MMR-deficient	PD-L1 High		Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	uveal melanoma	PD-L1 High			Hematologic malignancies	CNS Tumor						
+		Locally Advanced or Metastatic	non-squamous NSCLC	PD-L1 High			Hematologic malignancies	CNS Tumor			EGFR activating Mutation	ALK Fusion		
+		Locally Advanced or Metastatic	Squamous NSCLC	PD-L1 High			Hematologic malignancies	CNS Tumor						
+														
+14	NCT04389632	relapsed or refractory	Non-small cell lung cancer (NSCLC)											
+		relapsed or refractory	Head and neck squamous cell cancer (HNSCC)											
+		(relapsed or refractory) and advanced	breast cancer	HER2 Negative										
+		relapsed or refractory	Esophageal squamous cell carcinoma (ESCC)											
+		relapsed or refractory	Esophageal/Gastro-esophageal junction adenocarcinoma (EAC/GEJ)											
+		relapsed or refractory	Cutaneous squamous cell cancer (cSCC)											
+		relapsed or refractory	Exocrine pancreatic adenocarcinoma											
+		relapsed or refractory	Bladder cancer											
+		relapsed or refractory	Cervical cancer											
+		relapsed or refractory	Gastric cancer											
+		relapsed or refractory	High grade serous ovarian cancer (HGSOC)											
+														
+														
+15	NCT04624204	Stage I-III	Small Cell Lung Cancer (SCLC)				myelodysplastic syndrome (MDS)	acute myeloid leukemia						
+														
+16	NCT03486067	relapsed and refractory	Multiple Myeloma											
+														
+17	NCT04586231	"Unresectable, locally advanced or metastatic"	Renal Cell Carcinoma											
+														
+18	NCT04504916	metastatic	Breast Cancer	Triple-negative			Malignancy involving CNS							
+		metastatic	Breast cancer	HER2-negative			Malignancy involving CNS		Triple-negative					
+		metastatic	non-squamous non-small-cell lung cancer (NSCLC)				Malignancy involving CNS							
+		metastatic	gastric cancer				Malignancy involving CNS							
+		metastatic	pancreatic cancer				Malignancy involving CNS							
+		metastatic	ovarian cancer				Malignancy involving CNS							
+														
+19	NCT05388669	Advanced or Metastatic	non-small cell lung cancer (NSCLC)	EGFR Exon 19 deletion (Exon 19del)										
+		Advanced or Metastatic	non-small cell lung cancer (NSCLC)	EGFR Exon 21 L858R										
+														
+20	NCT02176967	Non-high Risk	Neuroblastoma	MYCN non-amplified	one or more whole chromosome gains						"copy number loss at 1p, 3p, 4p, or 11q or somatic copy number gain at 1q, 2p, or 17q"			
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	one or more whole chromosome gains						"copy number loss at 1p, 3p, 4p, or 11q or somatic copy number gain at 1q, 2p, or 17q"			
+		Non-high Risk	Neuroblastoma	MYCN non-amplified	Hyperdiploid						"copy number loss at 1p, 3p, 4p, or 11q or somatic copy number gain at 1q, 2p, or 17q"			
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	Hyperdiploid						"copy number loss at 1p, 3p, 4p, or 11q or somatic copy number gain at 1q, 2p, or 17q"			
+		Non-high Risk	Neuroblastoma	MYCN non-amplified	1p loss									
+		Non-high Risk	Neuroblastoma	MYCN non-amplified	3p loss									
+		Non-high Risk	Neuroblastoma	MYCN non-amplified	4p loss									
+		Non-high Risk	Neuroblastoma	MYCN non-amplified	11q loss									
+		Non-high Risk	Neuroblastoma	MYCN non-amplified	1p gain									
+		Non-high Risk	Neuroblastoma	MYCN non-amplified	2p gain									
+		Non-high Risk	Neuroblastoma	MYCN non-amplified	17q gain									
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	1p loss									
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	3p loss									
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	4p loss									
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	11q loss									
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	1p gain									
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	2p gain									
+		Non-high Risk	Ganglioneuroblastoma	MYCN non-amplified	17q gain									
+														
+21	NCT03539536	locally advanced or metastatic	Non-small Cell Lung Cancer	overexpress c-Met			adenosquamous histology (LUAS)							
+		locally advanced or metastatic	 non-squamous NSCLC	overexpress c-Met			adenosquamous histology (LUAS)				EGFR Mutation			
+														
+22	NCT04023071	Refractory or Relapsed	acute myeloid leukemia (AML)											
+		Refractory or Relapsed	B-cell Lymphoma	CD20 Positive										
+														
+23	NCT04440943	"Recurrent, locally advanced or metastaticÊ"	Non-small Cell Lung Cancer											
+		"Recurrent, locally advanced or metastaticÊ"	Breast Cancer											
+		"Recurrent, locally advanced or metastaticÊ"	Gastric Cancer											
+		"Recurrent, locally advanced or metastaticÊ"	Renal Cell Carcinoma											
+		"Recurrent, locally advanced or metastaticÊ"	Ovarian Cancer											
+		"Recurrent, locally advanced or metastaticÊ"	Primary Peritoneal Carcinoma											
+		"Recurrent, locally advanced or metastaticÊ"	Fallopian Tube Cancer											
+		"Recurrent, locally advanced or metastaticÊ"	Cholangiocarcinoma											
+		"Recurrent, locally advanced or metastaticÊ"	Bladder Urothelial Carcinoma											
+		"Recurrent, locally advanced or metastaticÊ"	Colorectal Cancer	MSI-H										
+		"Recurrent, locally advanced or metastaticÊ"	Esophageal Cancer											
+		"Recurrent, locally advanced or metastaticÊ"	Hepatic Cancer											
+		"Recurrent, locally advanced or metastaticÊ"	Head and Neck Cancer											
+		"Recurrent, locally advanced or metastaticÊ"	Solid Tumors				"colorectal cancer, glioblastoma multiforme, prostate cancer, pancreatic cancer, mucosal and ocular melanoma"	 						
+														
+24	NCT04214067	Newly Diagnosed Stage I Stage II High Intermediate Risk	Endometrioid endometrial Cancer	deficient mismatch repair MSI-H										
+														
+25	NCT04619004	metastatic or locally advanced	NSCLC	EGFR exon 19 deletion										
+		metastatic or locally advanced	NSCLC	EGFR L858R										
+														
+26	NCT05116189		epithelial ovarian carcinoma				Nonepithelial tumors	borderline tumor	mucinous tumors	"seromucinous that is predominantly mucinous, malignant Brenner's tumor, undifferentiated carcinoma"				
+			fallopian tube carcinoma				Nonepithelial tumors	borderline tumor	mucinous tumors	"seromucinous that is predominantly mucinous, malignant Brenner's tumor, undifferentiated carcinoma"				
+			peritoneal carcinoma				Nonepithelial tumors	borderline tumor	mucinous tumors	"seromucinous that is predominantly mucinous, malignant Brenner's tumor, undifferentiated carcinoma"				
+														
+27	NCT03650894	Metastatic or locally advanced unresectable	breast cancer	HER2 Negative 										
+		Metastatic or locally advanced unresectable	breast cancer	Triple Negative	AR Positive									
+	#													
+														
+28	NCT03329950	"Recurrent, locally advanced or metastatic"	melanoma (including mucosal and/or ocular)											
+		"Recurrent, locally advanced or metastatic"	bladder/urothelial carcinoma											
+		"Recurrent, locally advanced or metastatic"	non-small cell lung cancer											
+		"Recurrent, locally advanced or metastatic"	pancreatic adenocarcinoma											
+		"Recurrent, locally advanced or metastatic"	breast carcinoma											
+		"Recurrent, locally advanced or metastatic"	colorectal carcinoma											
+		"Recurrent, locally advanced or metastatic"	gastric carcinoma											
+		"Recurrent, locally advanced or metastatic"	esophageal carcinoma											
+		"Recurrent, locally advanced or metastatic"	renal cell carcinoma											
+		"Recurrent, locally advanced or metastatic"	hepatic carcinoma											
+		"Recurrent, locally advanced or metastatic"	ovarian carcinoma											
+		"Recurrent, locally advanced or metastatic"	fallopian carcinoma											
+		"Recurrent, locally advanced or metastatic"	primary peritoneal carcinoma											
+		"Recurrent, locally advanced or metastatic"	head and neck carcinoma											
+		"Recurrent, locally advanced or metastatic"	cholangiocarcinoma											
+		"Recurrent, locally advanced or metastatic"	solid tumor				Primary CNS tumor							
+		Advanced	B-cell lymphoma (DLBCL)											
+		Advanced	mantle cell lymphoma											
+		Advanced	indolent B-cell lymphoma											
+		Advanced	Non-Hodgkin Lymphoma											
+		Advanced	Follicular Lymphoma											
+		Advanced	Lymphoplasmacytic Lymphoma											
+		Advanced	Waldenstrom's Disease											
+		Advanced	Marginal Zone Lymphoma											
+		Advanced	Mucosa Associated Lymphoid Tissue											
+		Advanced	Small Lymphocytic Leukemia											
+														
+29	NCT05262400		Breast Cancer	HR+	HER2-									
+		Refractory	Breast Cancer	HR-positive	HER2 Positive									
+			Breast Cancer	HR+	HER2 Positive									
+			Solid Tumor				Breast Cancer							
+														
+30	NCT04410445	"Stage III, Stage IV"	cutaneous melanoma				ocular melanoma	uveal melanoma	mucosal melanoma					
+														
+31	NCT04567420	Stage II or III	breast cancer	HER2 negative	ER positive									
+														
+32	NCT03520075	"metastatic or unresectable, who are refractory or have relapsed"	solid tumors											
+		"metastatic or unresectable, who are refractory or have relapsed"	solid tumors	MAPK pathwayÊalterations										
+														
+33	NCT04214262	"Stage I , Stage IIA or T3N0M0"	Lung Non-Small Cell Carcinoma											
+														
+34	NCT04381650	advanced or metastatic	Non-squamous NSCLC											
+		advanced or metastatic	cervical cancer				minimal deviation/adenoma malignum	gastric-type cervial adenocarcinoma	cervial clear-cell carcinoma	cervial mesonephric carcinoma				
+		advanced or metastatic	cervial squamous cell carcinoma				minimal deviation/adenoma malignum	gastric-type cervial adenocarcinoma	cervial clear-cell carcinoma	cervial mesonephric carcinoma				
+		advanced or metastatic	cervical adenosquamous carcinoma				minimal deviation/adenoma malignum	gastric-type cervial adenocarcinoma	cervial clear-cell carcinoma	cervial mesonephric carcinoma				
+		advanced or metastatic	adenocarcinoma of the cervix				minimal deviation/adenoma malignum	gastric-type cervial adenocarcinoma	cervial clear-cell carcinoma	cervial mesonephric carcinoma				
+		advanced or metastatic	colorectal cancer	microsatellite stable										
+		Unresectable Stage III or Stage IV	cutaneous melanoma											
+		advanced or metastatic	Squamous NSCLC											
+		advanced or metastatic	SCLC											
+		advanced or metastatic	"HNSCC (oral cavity, pharynx, larynx)"											
+		advanced or metastatic	CRC	MSI-H/dMMR										
+														
+														
+35	NCT03488693	invasive with no evidence of metastases	Breast Cancer	ER Positive	HER2 Negative	ÊOncotype DX recurrence score ²25	Êpositive marginsÊ	evidence of metastases						
+														
+36	NCT05308446	Metastatic or Unresectable Stage III Stage IV	Colon Adenocarcinoma	BRAF V600E	MSS									
+		Metastatic or Unresectable Stage III Stage IV	Rectal Adenocarcinoma	BRAF V600E	MSS									
+		Metastatic or Unresectable Stage III Stage IV	Colon Adenocarcinoma	BRAF V600E	pMMR									
+		Metastatic or Unresectable Stage III Stage IV	Rectal Adenocarcinoma	BRAF V600E	pMMR									
+														
+37	NCT02912559	stage III	colon adenocarcinoma	dMMR			rectal involvementÊ	M1						
+		stage III	colon adenocarcinoma	MLH1 Low			rectal involvementÊ	M1						
+		stage III	colon adenocarcinoma	MSH2 Low			rectal involvementÊ	M1						
+		stage III	colon adenocarcinoma	MSH6 Low			rectal involvementÊ	M1						
+		stage III	colon adenocarcinoma	PMS2 Low			rectal involvementÊ	M1						
+			Lynch syndrome	MLH1 Mutation			rectal involvementÊ	M1						
+			Lynch syndrome	MSH2 Mutation			rectal involvementÊ	M1						
+			Lynch syndrome	MSH6 Mutation			rectal involvementÊ	M1						
+			Lynch syndrome	PMS2 Mutation			rectal involvementÊ	M1						
+														
+38	NCT05200143	metastatic	cutaneous melanoma				CNS metastases 	leptomeningeal carcinomatosisÊ						
+														
+39	NCT04351555	completely resectable (Stage II - IIIB N2)	non-squamous NSCLC	EGFR Ex19del			Mixed small cell and NSCLC	"T4 tumours infiltrating the aorta, the oesophagus and/or the heart;"	bulky N2 disease					
+Combined Small Cell Lung Carcinoma (CSCLC)		completely resectable (Stage II - IIIB N2)	non-squamous NSCLC	EGFR L858R			Mixed small cell and NSCLC	"T4 tumours infiltrating the aorta, the oesophagus and/or the heart;"	bulky N2 disease					
+														
+40	NCT05328102	relapsed or refractory	"DLBCL, NOS"	CD20 Positive	CD19 Positive									
+														
+41	NCT04720157	metastatic	prostate adenocarcinoma	PSMA positive (as assessed by  a 68Ga-PSMA-11 PET/CT scan)										
+														
+42	NCT04988295	locally advanced or metastatic	non-squamous non-small cell lung cancer (NSCLC)	EGFR Exon 19del			brain metastases	Êsmall cell transformation						
+		locally advanced or metastatic	non-squamous non-small cell lung cancer (NSCLC)	EGFR Exon 21 L858R										
+														
+43	NCT04961996	medium- and high-risk Stage I-III	breast tumor	ER positive	HER2 Negative		ÊStage IV breast cancer							
+														
+44	NCT03809624	locally advanced or metastatic non-resectable	solid tumor				Hematologic malignancies	CNS tumors						
+			Non-small Cell Lung Cancer				Hematologic malignancies	CNS tumors						
+			Melanoma				Hematologic malignancies	CNS tumors						
+			head and neck squamous cell carcinoma				Hematologic malignancies	CNS tumors						
+			Nasopharyngeal Carcinoma				Hematologic malignancies	CNS tumors						
+			Oropharyngeal Carcinoma				Hematologic malignancies	CNS tumors						
+		locally advanced or metastatic non-resectable	NSCLC	PD-L1 Low			Hematologic malignancies	CNS tumors						
+		locally advanced or metastatic non-resectable	Gastric Carcinoma	PD-L1 Positive			Hematologic malignancies	CNS tumors						
+		locally advanced or metastatic non-resectable	urothelial (transitional) cell carcinoma	PD-L1 Positive			Hematologic malignancies	CNS tumors						
+		locally advanced or metastatic non-resectable	renal cell carcinoma	PD-L1 Positive			Hematologic malignancies	CNS tumors						
+		locally advanced or metastatic non-resectable	gastro-esophageal junction adenocarcinoma	PD-L1 Positive			Hematologic malignancies	CNS tumors						
+		locally advanced or metastatic non-resectable	solid tumor	PD-L1 Positive			Hematologic malignancies	CNS tumors						
+		locally advanced or metastatic non-resectable	cutaneous melanoma	PD-L1 Positive			Hematologic malignancies	CNS tumors						
+		locally advanced or metastatic non-resectable	head and neck squamous cell carcinoma	PD-L1 Positive			Hematologic malignancies	CNS tumors						
+			solid tumors	MSI High	PD-L1 Positive		Hematologic malignancies	CNS tumors						
+			solid tumors	TMB High	PD-L1 Positive		Hematologic malignancies	CNS tumors						
+			solid tumors	dMMR	PD-L1 Positive		Hematologic malignancies	CNS tumors						
+														
+45	NCT03698019	stage III-IV high-risk	melanoma				uveal melanoma	Brain metastasis						
+			Mucosal Melanoma											
+			Acral Lentiginous Melanoma											
+														
+46	NCT05355701	advanced/metastatic	solid tumor	BRAF mutation			Brain Met > 4 cm				BRAF Class II	BRAF Class III		
+														
+47	NCT04471727	relapsed/refractory	Small-cell Lung Cancer	DLL3 High			CNS malignancy  (primary or metastatic)							
+		relapsed/refractory	Neuroendocrine Prostate Cancer	DLL3 High			CNS malignancy  (primary or metastatic)							
+		"High Grade AND (relapsed/refractory, standard therapy does not exist, OR standard therapy is not considered appropriate)"	neuroendocrine tumor types	DLL3 High			SCLC	NEPC	CNS malignancy	glioma				
+														
+48	NCT04494425	Advanced or Metastatic	Breast Cancer	HER2 Low	HR+									
+														
+49	NCT03975647	unresectable locally advanced/metastatic	Breast Cancer	HER2-positive										
+														
+50	NCT04305795	Recurrent locally advanced and/or metastatic	Head and Neck Squamous Cell Carcinoma	PD-L1 Positive										
+		advanced or metastatic 	Cutaneous Squamous Cell Carcinoma											
+														
+52	NCT03866382	Metastatic	Small cell / neuroendocrine carcinoma of bladder				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Adenocarcinoma of bladder				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Urachal adenocarcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Bladder/urethra clear cell adenocarcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Squamous cell carcinoma of bladder				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Plasmacytoid urothelial carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Any penile cancer				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Sarcomatoid renal cell carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Malignant angiomyolipoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Sarcomatoid urothelial carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Renal medullary carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Renal collecting duct carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Bone only urothelial carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Urethra carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	"Urothelial carcinoma sub variants: micropapillary, giant cell, lipid-rich, clear cell, nested "				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Large cell neuroendocrine carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Lymphoepithelioma-like carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Treatment naive small cell neuroendocrine prostate cancer				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	testicular sertoli cell tumor				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Testicular Leydig Cell Tumor				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Papillary Renal Cell Carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Chromophome Renal Cell Carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+		Metastatic	Translocation positive renal cell carcinoma				Active CNS metastasis	Tumor invading GT tract	"Endotracheal, endobronchial tumor"					
+														
+53	NCT04457596	"stage T1-4, N0-3 disease"	Breast cancer	HER2 positive (at time of diagnosis)							ER positive (but only if LN negative in patients with residual invasive disease)			
+				HER2 positive	ER positive									
+														
+54	NCT03583086	Not elegible for resection.	Thymic Carcinoma											BRAF  without TKI therapy. Ê
+		Progressive despite therapy.	Non-small Cell Lung Cancer								s	ALK without TKI therapy.  	ROS1 without TKI therapy. 	
+		Progressive despite therapy.	Small-Cell Lung Cancer											
